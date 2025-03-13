@@ -1,0 +1,7 @@
+/downloads
+/detalle
+/lote
+venv
+*.html
+__pycache__
+*.toml

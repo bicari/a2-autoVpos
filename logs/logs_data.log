@@ -1,0 +1,16 @@
+2025-03-13 15:43:36,135 INFO : Archivo guardado downloads\Lote1964Banplus20250311.zip
+2025-03-13 15:43:36,145 INFO : Descarga finalizada
+2025-03-13 15:43:36,815 INFO : Archivo guardado downloads\Lote1964Bancamiga20250311.zip
+2025-03-13 15:43:36,815 INFO : Descarga finalizada
+2025-03-13 15:43:37,325 INFO : Archivo guardado downloads\Lote1964Bancamiga20250312.zip
+2025-03-13 15:43:37,325 INFO : Descarga finalizada
+2025-03-13 15:43:37,629 INFO : ['Lote1964Bancamiga20250311.zip', 'Lote1964Bancamiga20250312.zip', 'Lote1964Banplus20250311.zip']
+2025-03-13 15:43:37,629 INFO : Iniciando Descompresion de archivos en lote
+2025-03-13 15:43:37,668 INFO : Descompresion de archivo:Lote1964Bancamiga20250311.zip en lote finalizada
+2025-03-13 15:43:37,671 INFO : Descompresion de archivo:Lote1964Bancamiga20250312.zip en lote finalizada
+2025-03-13 15:43:37,676 INFO : Descompresion de archivo:Lote1964Banplus20250311.zip en lote finalizada
+2025-03-13 15:43:37,676 INFO : Insertando en banco archivo:Lote1964Bancamiga20250311.txt en lote
+2025-03-13 15:43:38,531 INFO : Insercion de archivo:Lote1964Bancamiga20250311.txt finalizada con éxito
+2025-03-13 15:43:38,531 INFO : Insertando en banco archivo:Lote1964Bancamiga20250312.txt en lote
+2025-03-13 15:43:39,642 INFO : Insercion de archivo:Lote1964Bancamiga20250312.txt finalizada con éxito
+2025-03-13 15:43:39,642 WARNING : Archivo de banco:Banplus no encontrado o no configurado
