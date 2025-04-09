@@ -34,6 +34,31 @@ Salida:
   Platform  : 64-bit
   Attribute : {APILevel, DriverODBCVer, FileUsage, Driver...}
 ```
+#### Variable de entorno
+
+Es necesario crear una variable de entorno que apunte a la carpeta donde se encuentra la base de datos del sistema.
+
+La cual debe llevar por nombre: `RUTA_A2_DATA`.
+
+Para crear la variable ejecuta como administrador en powershell:
+```bash
+  $Env:RUTA_A2_DATA = "X:\RUTA_SISTEMA\Empre001\Data"
+```
+*Reemplaza `"C:\RUTA_SISTEMA\Empre001\Data"` por la ruta de la base de datos de tu sistema.*
+
+Verifica la variable creada con:
+
+```bash
+    Get-Item -Path Env:\RUTA_A2
+```
+
+Salida:
+
+```bash
+    Name                           Value
+    ----                           -----
+    RUTA_A2_DATA                   X:\RUTA_SISTEMA\Empre001\Data
+```
 
 #### Descarga el binario
 
