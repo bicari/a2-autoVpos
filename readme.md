@@ -38,7 +38,7 @@ Salida:
 
 Es necesario crear una variable de entorno que apunte a la carpeta donde se encuentra la base de datos del sistema.
 
-La cual debe llevar por nombre: `RUTA_A2_DATA`.
+La cual debe llevar por nombre: `RUTA_A2`.
 
 Para crear la variable ejecuta como administrador en powershell:
 ```bash
